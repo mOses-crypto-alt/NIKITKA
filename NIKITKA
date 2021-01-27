@@ -1,0 +1,696 @@
+balance = 0
+a = 0
+while a < 100:
+    a += 1
+    print(a, "% Загрузка.")
+print("1) Рыбалка")
+print("2) Охота")
+print("3) Добыча нефти")
+print("4) Вырубка леса")
+print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print("Ваш баланс =",balance)
+if choise == 2 :
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise == 4:
+    balance += 50
+    print("Ваш баланс =",balance)
+choise = choise - choise
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
+
+print ("Желаете заработать еще?")
+print("Выбери цифру")
+print("1) Да")
+print("2) Нет")
+b = int(input("Давай, выбирай!: "))
+if b == 1:
+    print("1) Рыбалка")
+    print("2) Охота")
+    print("3) Добыча нефти")
+    print("4) Вырубка леса")
+    print("5) Такси")
+choise = int(input("Выберите способ заработка: "))
+if choise == 1:
+    balance += 30
+    print(balance)
+if choise == 2:
+    balance += 120
+    print("Ваш баланс =",balance)
+if choise == 3:
+    balance += 750
+    print("Ваш баланс =",balance)
+if choise== 4:
+    balance += 50
+    print("Ваш баланс =",balance) 
+choise = choise - choise
+b = b - b
+
